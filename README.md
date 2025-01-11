@@ -2,10 +2,10 @@
 
 ## 🧑‍💻 About Me & My Skills
 
-⚡ I am an aspiring Web Developer! I have a creative personality and love to design and create solutions to problems.
+⚡ I am an aspiring Web Developer! I have a creative personality and love to design and create solutions to problems.<br>
 🌱 I’m learning SQL and using SQL Server Management Studio, while also learning Javascript on the side.
 
-🤖 **Languages**: C++, JavaScript, HTML, CSS
+🤖 **Languages**: C++, JavaScript, HTML, CSS<br>
 🔨 **Tools & Technologies**: Visual Studio, Visual Studio Code, GitHub
 
 ## 🤝 Connect with Me
