@@ -1,16 +1,15 @@
-## Constructing . . . 👋
+# Hi! I'm Jason Moore.
 
-<!--
-**json-moore/json-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me & My Skills
 
-Here are some ideas to get you started:
+⚡ I am an aspiring Web Developer! I have a creative personality and love to design and create solutions to problems.
+🌱 I’m learning SQL and using SQL Server Management Studio, while also learning Javascript on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **Languages**: C++, JavaScript, HTML, CSS
+🔨 **Tools & Technologies**: Visual Studio, Visual Studio Code, GitHub
+
+## 🤝 Connect with Me
+
+- LinkedIn: [Jason Moore](www.linkedin.com/in/jsonmoore)
+- Email: json.mooreb@gmail.com
+
