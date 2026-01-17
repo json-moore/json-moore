@@ -2,10 +2,10 @@
 
 ## 🧑‍💻 About Me & My Skills
 
-⚡ I am an aspiring Full Stack Developer! I have a creative personality and love to design and create solutions to problems.<br>
+⚡ I am an aspiring Full Stack Software Developer! I have a creative personality and love to design and create solutions to problems.<br>
 
-🤖 **Languages**: C++, HTML, CSS, SQL, Python, C#<br>
-🔨 **Tools & Technologies**: Visual Studio, Visual Studio Code, GitHub, IDLE
+🤖 **Languages**: C++, HTML, CSS, SQL, Python, C#, Java<br>
+🔨 **Tools & Technologies**: Visual Studio, Visual Studio Code, GitHub, IDLE, Eclipse IDE, Figma
 
 ## 🤝 Connect with Me
 
