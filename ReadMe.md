@@ -4,8 +4,8 @@
 
 ⚡ I am an aspiring Full Stack Software Developer! I have a creative personality and love to create solutions to problems.<br>
 
-🤖 **Languages/Frameworks**: HTML, CSS, Python, C++, C#, Java, SQL, Bootstrap, Asp.NET<br>
-🔨 **Tools & Technologies**: Visual Studio, Visual Studio Code, GitHub, Git, IDLE, Eclipse IDE, Figma
+🤖 **Languages/Frameworks**: HTML, CSS, Python, C++, C#, Java, SQL, Kotlin, Bootstrap, Asp.NET<br>
+🔨 **Tools & Technologies**: Visual Studio, Visual Studio Code, GitHub, Git, IDLE, Eclipse IDE, Figma, Android Studio
 
 ## 🤝 Connect with Me
 
