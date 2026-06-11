@@ -10,4 +10,4 @@
 ## 🤝 Connect with Me
 
 - LinkedIn: [Jason Moore](https://www.linkedin.com/in/jsonmoore)
-- Email: json.mooreb@gmail.com
+- Email: JsonBMoore@Outlook.com
